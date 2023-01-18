@@ -1,1 +1,1 @@
-gsheetsdb==22.3.1
+gsheetsdb==0.1.12
